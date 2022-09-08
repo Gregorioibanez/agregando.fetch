@@ -1,0 +1,40 @@
+body{
+    background-color: lightcoral;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.estilos{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.metros2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.btnCotizar{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.btnEnviar{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
